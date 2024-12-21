@@ -56,7 +56,9 @@ The detailed task description can be found in the `task/task.pdf` file.
 
 Ohrimenko Eva, 2024
 Created as part of a course assignment at ITMO University.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 # Линейная алгебра. Лабораторная работа 5
 
 ## Описание
